@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    background-color: hotpink;
+    color: Black
+
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: Black;
+    color: hotpink;
+}
+div {
+    color: gray;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : Black;
+    color: hotpink;
+}
